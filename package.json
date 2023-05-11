@@ -16,5 +16,12 @@
   "bugs": {
     "url": "https://github.com/amalahema/Tech_blog/issues"
   },
-  "homepage": "https://github.com/amalahema/Tech_blog#readme"
+  "homepage": "https://github.com/amalahema/Tech_blog#readme",
+  "dependencies": {
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "handlebars": "^4.7.7",
+    "mysql2": "^3.3.0",
+    "sequelize": "^6.31.1"
+  }
 }
