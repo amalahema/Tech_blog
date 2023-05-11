@@ -1,16 +1,16 @@
 {
-  "name": "Tech_blog",
+  "name": "tech_blog",
   "version": "1.0.0",
   "description": "",
-  "main": "index.js",
+  "main": "server.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/amalahema/Tech_blog.git"
   },
-  "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
